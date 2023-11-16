@@ -1,0 +1,21 @@
+{
+  "name": "poo-pratica",
+  "version": "1.0.0",
+  "description": "Exercícios POO Ada Vem ser Tech Backend",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberti-alvaro/AdaTech-POO-Pratica.git"
+  },
+  "author": "Álvaro Soares Roberti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberti-alvaro/AdaTech-POO-Pratica/issues"
+  },
+  "homepage": "https://github.com/roberti-alvaro/AdaTech-POO-Pratica#readme",
+  "devDependencies": {
+    "typescript": "5.2.2"
+  }
+}
