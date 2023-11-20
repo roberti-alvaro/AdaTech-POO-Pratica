@@ -18,3 +18,5 @@ class Carro {
 }
 
 export { Carro }
+
+//Invocação dos objetos e métodos no arquivo index.ts da pasta main do projeto (src)

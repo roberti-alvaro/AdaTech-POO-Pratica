@@ -16,3 +16,5 @@ class ConfiguracaoApp {
 }
 
 export { ConfiguracaoApp }
+
+//Invocação dos objetos e métodos no arquivo index.ts da pasta main do projeto (src)

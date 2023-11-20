@@ -12,3 +12,5 @@ class Passaro extends Animal {
 }
 
 export { Passaro }
+
+//Invocação dos objetos e métodos no arquivo index.ts da pasta main do projeto (src)

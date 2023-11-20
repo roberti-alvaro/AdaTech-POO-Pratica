@@ -1,7 +1,5 @@
 //FAVOR DESCOMENTAR OS CÓDIGOS DE CADA QUESTÃO PARA CORREÇÃO
 
-import { ConfiguracaoApp } from "./Questao_7/ConfiguracaoApp"
-
 //QUESTÃO 1: ------------------------------------------------------------------------------------------------------------
 
 // import { Carro } from "./Questao_1/Carro";
@@ -104,6 +102,8 @@ import { ConfiguracaoApp } from "./Questao_7/ConfiguracaoApp"
 //-------------------------------------------------------------------------------------------------------------------------
 
 //QUESTÃO 7:
+
+// import { ConfiguracaoApp } from "./Questao_7/ConfiguracaoApp"
 
 // const tela1 = () => {
 //     const saudacao = ConfiguracaoApp.getInstance()
